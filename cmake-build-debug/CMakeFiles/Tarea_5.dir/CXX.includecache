@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ortegajosant/CLionProjects/Tarea 5/main.cpp
+iostream
+-
+src/Backtracking.h
+/home/ortegajosant/CLionProjects/Tarea 5/src/Backtracking.h
+
+/home/ortegajosant/CLionProjects/Tarea 5/src/Backtracking.h
+queue
+-
+
